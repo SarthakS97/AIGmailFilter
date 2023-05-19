@@ -8,7 +8,7 @@
 
 `npm install`
 
-Replace the API key in index.js with your own from (Cohere)[https://cohere.com/]
+Replace the API key in index.js with your own from [Cohere](https://cohere.com/)
 
 `node index.js`
 
