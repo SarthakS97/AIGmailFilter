@@ -26,5 +26,5 @@ Now in the drop down select setupTrigger function and press run. The trigger has
 
 ### Step 3: Gmail
 In the Gmail sidebar, scroll down to find "Labels" with a '+' sign next to it. Create appropriate labels. Find some important emails and label them. Close to 10 emails per 
-label is recommended. The label icon can be found right beneath the search bar. If you followed the previous step correctly. New important unread emails will be classifed automatically. If you find
+label is recommended. The label icon can be found right beneath the search bar. If you followed the previous step correctly new important unread emails will be classifed automatically. If you find
 that an email is wrongly labelled just change the label manually and it will be considered by the AI model during the next classification.  
