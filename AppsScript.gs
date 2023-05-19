@@ -33,7 +33,7 @@ function classify() {
     Logger.log(body);
     inputs.push(body);
 
-    var trainURL = "https://4f4e-49-205-129-224.ngrok-free.app/classify";
+    var trainURL = "YOUR_BACKEND_URL";
     var payload = {
       examples: examples,
       inputs: inputs
